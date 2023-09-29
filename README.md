@@ -21,7 +21,7 @@
 
 <p>
 
- <div  class="icons-social" style="margin-left: 20px;">
+ <div  class="icons-social" style="margin-left: 15px;">
         <a style="margin-left: 20px;"  target="_blank" href="https://www.linkedin.com/in/amrithaar/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 20px;" target="_blank" href="https://github.com/Amritha2207">
