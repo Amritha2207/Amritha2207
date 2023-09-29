@@ -19,9 +19,9 @@
 <br/>
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 20px;">Connect with me 🤝 </h3>
 
-<p align="center">
+<p>
 
- <div  class="icons-social" style="margin-left: 30px;">
+ <div  class="icons-social" style="margin-left: 20px;">
         <a style="margin-left: 20px;"  target="_blank" href="https://www.linkedin.com/in/amrithaar/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 20px;" target="_blank" href="https://github.com/Amritha2207">
