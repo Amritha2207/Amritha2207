@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences <a href="https://github.com/Amritha2207/Resume/blob/main/AMRITHA's%20Resume%20(1).pdf" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 20px;">Connect with me 🤝 </h3>
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 20px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
