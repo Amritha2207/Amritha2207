@@ -2,16 +2,14 @@
 <h1 align="center">Hi 👋, I'm Amritha</h1>
 <h3 align="center">Machine Learning Fanatic | Data Science Enthusiast | Front-end developer</h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </a>
 
 - 🔭 I’m currently a 3rd year student at SRM University,Chennai.
 
-- 🌱 I’m currently Working Machine Learning,Data Science projects.
+- 🌱 I’m currently working on Machine Learning,Data Science projects.
 
 - 🤝 I’m available for freelancing.
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
 - 💬 Ask me about **Python & Machine Learning**
 
