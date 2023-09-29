@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amritha</h1>
 <h3 align="center">Machine Learning Fanatic | Data Science Enthusiast | Front-end developer</h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </a>
 
 - 🔭 I’m currently a 3rd year student at SRM University,Chennai.
@@ -30,7 +30,7 @@
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>    
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ra2111003023177">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/Amritha2207/Resume/blob/main/AMRITHA's%20Resume%20(1).pdf">
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/Amritha2207/Resume/blob/main/AMRITHA's%20Resume%20(1).pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
