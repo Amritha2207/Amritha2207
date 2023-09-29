@@ -22,7 +22,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 20px;">
-        <a style="margin-left: 50px;"  target="_blank" href="https://www.linkedin.com/in/amrithaar/">
+        <a style="margin-left: 20px;"  target="_blank" href="https://www.linkedin.com/in/amrithaar/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 20px;" target="_blank" href="https://github.com/Amritha2207">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
